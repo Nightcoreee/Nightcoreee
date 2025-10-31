@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left">
-  <a href="https://www.facebook.com/wishhh2003">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"/>
+<div align="center">
+  <a href="https://www.facebook.com/wishhh2003" class="text-center">
+  <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" style="max-width: 100%; alt="facebook logo"/>
   </a>
   <a href="https://www.instagram.com/vvish.1976/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
