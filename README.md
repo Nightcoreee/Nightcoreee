@@ -24,15 +24,15 @@
 
 <div align="center">
   <a href="https://www.facebook.com/wishhh2003" class="text-center">
-  <img src="https://cdn-icons-png.flaticon.com/128/1998/1998087.png" style="max-width: 50%"; alt="facebook_logo"/>
+  <img src="https://cdn-icons-png.flaticon.com/64/1998/1998087.png" style="max-width: 100%"; alt="facebook_logo"/>
   </a>
   
   <a href="https://www.instagram.com/vvish.1976/">
-  <img src="https://cdn-icons-png.flaticon.com/128/3579/3579034.png" style="max-width: 50%"; alt="instagram_logo"/>
+  <img src="https://cdn-icons-png.flaticon.com/64/3579/3579034.png" style="max-width: 100%"; alt="instagram_logo"/>
   </a>
   
   <a href="https://www.linkedin.com/in/h%C3%A0-%C4%91%C3%A0o-8094a5334/">
-  <img src="https://cdn-icons-png.flaticon.com/128/2335/2335321.png" style="max-width: 50%"; alt="linkedin_logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/64/2335/2335321.png" style="max-width: 100%"; alt="linkedin_logo"/>
   </a>
 </div>
 
