@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 <!-- Tech Stack -->
-<p align="left">Tech Stack</p>
+<p align="left"></> Tech Stack</p>
 <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
@@ -32,7 +32,7 @@
 </div>
 
 <!-- Frontend -->
-<p align="left">Front-end</p>
+<p align="left">💻 Front-end</p>
 <div align="left">
   <a href="https://react.dev/learn">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react-logo" height="48" width="48"/></a>
@@ -57,7 +57,7 @@
 </div>
 
 <!-- Backend -->
-<p align="left">Back-end</p>
+<p align="left">⚙️ Back-end</p>
 <div align="left">
   <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs-logo" height="48" width="48"/></a>
@@ -73,7 +73,7 @@
 </div>
 
 <!-- DB -->
-<p align="left">Database</p>
+<p align="left">🛢️ Database</p>
 <div align="left">
   <a href="https://www.mongodb.com/docs/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb-logo" height="48" width="48"/></a>
@@ -95,7 +95,7 @@
 </div>
 
 <!-- Tools -->
-<p align="left">Tools</p>
+<p align="left">🛠️ Tools</p>
 <div align="left">
   <a href="https://code.visualstudio.com/docs">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode-logo" height="48" width="48"/></a>
@@ -123,7 +123,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 <!-- Stats -->
-<p align="left">Stats</p>
+<p align="left">📶 Stats</p>
 <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
