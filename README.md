@@ -14,7 +14,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 <!-- Tech Stack -->
-<p align="left">⚛️ Tech Stack</p>
+<div class="markdown-heading" dir="auto">
+  <h3 class="heading-element" dir="auto">⚛️ Tech Stack</h3>
+</div>
 <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
@@ -32,7 +34,9 @@
 </div>
 
 <!-- Frontend -->
-<p align="left">💻 Front-end</p>
+<div class="markdown-heading" dir="auto">
+  <h4 class="heading-element" dir="auto">🎨 Front-end</h4>
+</div>
 <div align="left">
   <a href="https://react.dev/learn">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react-logo" height="48" width="48"/></a>
@@ -57,7 +61,9 @@
 </div>
 
 <!-- Backend -->
-<p align="left">⚙️ Back-end</p>
+<div class="markdown-heading" dir="auto">
+  <h4 class="heading-element" dir="auto">⚙️ Back-end</h4>
+</div>
 <div align="left">
   <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs-logo" height="48" width="48"/></a>
@@ -73,7 +79,9 @@
 </div>
 
 <!-- DB -->
-<p align="left">🛢️ Database</p>
+<div class="markdown-heading" dir="auto">
+  <h4 class="heading-element" dir="auto">🛢️ Database</h4>
+</div>
 <div align="left">
   <a href="https://www.mongodb.com/docs/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb-logo" height="48" width="48"/></a>
@@ -95,7 +103,9 @@
 </div>
 
 <!-- Tools -->
-<p align="left">🛠️ Tools</p>
+<div class="markdown-heading" dir="auto">
+  <h4 class="heading-element" dir="auto">🛠️ Tools</h4>
+</div>
 <div align="left">
   <a href="https://code.visualstudio.com/docs">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode-logo" height="48" width="48"/></a>
@@ -123,7 +133,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 <!-- Stats -->
-<p align="left">📶 Stats</p>
+<div class="markdown-heading" dir="auto">
+  <h3 class="heading-element" dir="auto">📶 Stats</h3>
+</div>
 <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
@@ -136,16 +148,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 <!-- Contact -->
-<p align="left">Contact with me</p>
+<div class="markdown-heading" dir="auto">
+  <h3 class="heading-element" dir="auto">📩 Contact with me</h3>
+</div>
 <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"></a>
 <div align="center">
   <a href="https://www.facebook.com/wishhh2003" class="text-center">
-  <img src="https://cdn-icons-png.flaticon.com/64/1998/1998087.png" style="max-width: 100%" alt="facebook-logo" height="100" width="100"/></a>
+  <img src="https://cdn-icons-png.flaticon.com/64/1998/1998087.png" style="max-width: 100%" alt="facebook-logo" height="80" width="80"/></a>
   
   <a href="https://www.instagram.com/vvish.1976/">
-  <img src="https://cdn-icons-png.flaticon.com/64/3579/3579034.png" style="max-width: 100%" alt="instagram-logo" height="100" width="100"/></a>
+  <img src="https://cdn-icons-png.flaticon.com/64/3579/3579034.png" style="max-width: 100%" alt="instagram-logo" height="80" width="80"/></a>
   
   <a href="https://www.linkedin.com/in/h%C3%A0-%C4%91%C3%A0o-8094a5334/">
-  <img src="https://cdn-icons-png.flaticon.com/64/2335/2335321.png" style="max-width: 100%" alt="linkedin-logo" height="100" width="100"/></a>
+  <img src="https://cdn-icons-png.flaticon.com/64/2335/2335321.png" style="max-width: 100%" alt="linkedin-logo" height="80" width="80"/></a>
 </div>
 
