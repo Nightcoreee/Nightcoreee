@@ -27,8 +27,8 @@
 <div align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://skillicons.dev/icons?i=js" alt="javascript-logo" height="48" width="48"/></a>
-  <a href="https://www.typescriptlang.org/">
-  <img src="https://skillicons.dev/icons?i=ts" alt="typescript-logo" height="48" width="48"/></a>
+  <!-- <a href="https://www.typescriptlang.org/">
+  <img src="https://skillicons.dev/icons?i=ts" alt="typescript-logo" height="48" width="48"/></a> -->
   <a href="https://docs.python.org/3/">
   <img src="https://skillicons.dev/icons?i=py" alt="python-logo" height="48" width="48"/></a>
 </div>
@@ -38,8 +38,8 @@
   <h4 class="heading-element" dir="auto">🎨 Front-end</h4>
 </div>
 <div align="left">
-  <a href="https://react.dev/learn">
-  <img src="https://skillicons.dev/icons?i=react" alt="react-logo" height="48" width="48"/></a>
+  <!-- <a href="https://react.dev/learn">
+  <img src="https://skillicons.dev/icons?i=react" alt="react-logo" height="48" width="48"/></a> -->
 
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
   <img src="https://skillicons.dev/icons?i=html" alt="html5-logo" height="48" width="48"/></a>
@@ -98,8 +98,8 @@
   <a href="https://sqlite.org/docs.html">
   <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite-logo" height="48" width="48"/></a>
 
-  <a href="https://firebase.google.com/docs">
-  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase-logo" height="48" width="48"/></a>
+  <!--<a href="https://firebase.google.com/docs">
+  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase-logo" height="48" width="48"/></a> -->
 
   <a href="https://redis.io/docs/latest/">
   <img src="https://skillicons.dev/icons?i=redis" alt="redis-logo" height="48" width="48"/></a>
