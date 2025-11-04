@@ -1,5 +1,5 @@
 <div align="center" dir="auto">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=%2338C2FF&amp;size=50&amp;center=true&amp;vCenter=true&amp;height=60&amp;width=600&amp;&amp;duration=3000&amp&lines=Welcome+to+my+profile+%C2%AC%C2%AC%C2%AC;Hi+I'm+Ha+Dao" alt="" style="max-width: 100%;" _mstalt="60619" _msthash="5"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=%2338C2FF&amp;size=50&amp;center=true&amp;vCenter=true&amp;height=60&amp;width=600&amp;&amp;duration=3000&amp&lines=Welcome+to+my+profile+%C2%AC%C2%AC%C2%AC;Hi+I'm+Ha+Dao" alt="" style="max-width: 100%;"/>
 </div>
 
 <!-- <picture>
