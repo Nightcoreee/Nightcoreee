@@ -1,4 +1,10 @@
 <div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="/Nightcoreee/Nightcoreee/blob/main/banner.png">
+  <img src="/Nightcoreee/Nightcoreee/blob/main/banner.png" alt="cover" style="max-width: 100%;" width="100%" /></a>
+</div>
+
+
+<div align="center" dir="auto">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&pause=1000;&amp;color=%2338C2FF&amp;size=50&amp;center=true&amp;vCenter=true&amp;height=60&amp;width=600&amp;&amp;duration=3000&amp&lines=Welcome+to+my+profile+!!!;Hi+I'm+Ha+Dao+%C2%AC%C2%AC%C2%AC" alt="" style="max-width: 100%;"/>
 </div>
 
