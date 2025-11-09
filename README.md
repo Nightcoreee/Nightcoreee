@@ -1,6 +1,6 @@
 <div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="/Nightcoreee/Nightcoreee/blob/main/banner.png">
-  <img src="/Nightcoreee/Nightcoreee/blob/main/banner.png" alt="cover" style="max-width: 100%;" width="100%" /></a>
+  <a href="https://raw.githubusercontent.com/Nightcoreee/Nightcoreee/main/banner.png">
+  <img src="https://raw.githubusercontent.com/Nightcoreee/Nightcoreee/main/banner.png" alt="cover" style="max-width: 100%;" width="100%" /></a>
 </div>
 
 
