@@ -1,5 +1,5 @@
 <div align="center" dir="auto">
-  <a href="https://raw.githubusercontent.com/Nightcoreee/Nightcoreee/main/banner.png">
+  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Nightcoreee/Nightcoreee/main/banner.png">
   <img src="https://raw.githubusercontent.com/Nightcoreee/Nightcoreee/main/banner.png" alt="cover" style="max-width: 100%;" width="100%" /></a>
 </div>
 
