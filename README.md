@@ -15,6 +15,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&pause=1000;&amp;color=%2338C2FF&amp;size=50&amp;center=true&amp;vCenter=true&amp;height=60&amp;width=600&amp;&amp;duration=3000&amp&lines=Welcome+to+my+profile+!!!;Hi+I'm+Ha+Dao+%C2%AC%C2%AC%C2%AC" alt="" style="max-width: 100%;"/>
 </div>
 
+<!-- Snake game -->
+<img src="https://raw.githubusercontent.com/Nightcoreee/Nightcoreee/output/snake.svg" alt="Snake-animation"/> 
+
 <div class="markdown-heading" dir="auto">
   <h3 class="heading-element" dir="auto">
     <img src="https://media1.giphy.com/media/bkK6ZjlWzQKz9ZSNpk/giphy.gif" style="max-width: 100%; display: inline-block;" width="60" height="50"/>
@@ -27,13 +30,8 @@
 
 <p dir="auto">
   <img align="right" alt="Unicorn" src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" style="max-width: 100%; display: inline-block;"/>
-
   
 </p>
-
-<!-- Snake game -->
-<img src="https://raw.githubusercontent.com/Nightcoreee/Nightcoreee/output/snake.svg" alt="Snake-animation"/> 
-
 
 <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;"></a>
