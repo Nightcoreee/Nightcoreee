@@ -1,3 +1,10 @@
+<p dir="auto>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" data-target="animated-image.originalLink">
+    <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+</p>
+
+
+
 <div align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Nightcoreee/Nightcoreee/main/banner.png">
   <img src="https://raw.githubusercontent.com/Nightcoreee/Nightcoreee/main/banner.png" alt="cover" style="max-width: 100%;" width="100%" /></a>
