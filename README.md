@@ -28,10 +28,20 @@
 <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;"></a>
 
-<p dir="auto">
-  <img align="right" alt="Unicorn" src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" style="max-width: 100%; display: inline-block;"/>
-  
-</p>
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
+      👋 Hello there!<br>
+      I’m a <b>Backend Developer</b> with a passion for building robust, secure, and scalable server-side systems.<br>
+      My focus is on developing efficient APIs, intelligent data management, and business logic processing to deliver smooth and seamless user experiences.
+    </td>
+    <td>
+      <img src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" alt="Coding GIF" width="150">
+    </td>
+  </tr>
+</table>
+
+
 
 <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;"></a>
