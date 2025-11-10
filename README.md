@@ -183,7 +183,9 @@
 
 <!-- Contact -->
 <div class="markdown-heading" dir="auto">
-  <h3 class="heading-element" dir="auto">📩 Contact with me</h3>
+  <h3 class="heading-element" dir="auto">
+    <img src="https://media2.giphy.com/media/wpkEPH2rAHO8nAhcGW/giphy.gif" style="max-width: 100%; display: inline-block;" width="60" height="50"/>
+    Contact with me</h3>
 </div>
 
 <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink">
