@@ -1,6 +1,6 @@
-<p dir="auto>
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" data-target="animated-image.originalLink">
-    <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<p dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif">
+    <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="width: 100%; height: auto; display: block;" width="1200"/></a>
 </p>
 
 
