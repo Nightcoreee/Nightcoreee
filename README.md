@@ -15,18 +15,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&pause=1000;&amp;color=%2338C2FF&amp;size=50&amp;center=true&amp;vCenter=true&amp;height=60&amp;width=600&amp;&amp;duration=3000&amp&lines=Welcome+to+my+profile+!!!;Hi+I'm+Ha+Dao+%C2%AC%C2%AC%C2%AC" alt="" style="max-width: 100%;"/>
 </div>
 
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nightcoreee/Nightcoreee/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nightcoreee/Nightcoreee/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nightcoreee/Nightcoreee/output/pacman-contribution-graph.svg">
-</picture>  -->
+<div class="markdown-heading" dir="auto">
+  <h3 class="heading-element" dir="auto">
+    <img src="https://media1.giphy.com/media/bkK6ZjlWzQKz9ZSNpk/giphy.gif" style="max-width: 100%; display: inline-block;" width="60" height="50"/>
+    A little about me~~  
+  </h3>
+</div>
+
+<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;"></a>
+
+<p dir="auto">
+  <img align="right" alt="Unicorn" src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" style="max-width: 100%; display: inline-block;"/>
+
+  
+</p>
 
 <!-- Snake game -->
-<img src="https://raw.githubusercontent.com/Nightcoreee/Nightcoreee/output/snake.svg" alt="Snake-animation" /> 
+<img src="https://raw.githubusercontent.com/Nightcoreee/Nightcoreee/output/snake.svg" alt="Snake-animation"/> 
 
 
-<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;"></a>
 
 <!-- Tech Stack -->
 <div class="markdown-heading" dir="auto">
@@ -175,6 +185,11 @@
 <div class="markdown-heading" dir="auto">
   <h3 class="heading-element" dir="auto">📩 Contact with me</h3>
 </div>
+
+<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+
+
 <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"></a>
 <div align="center">
   <a href="https://www.facebook.com/wishhh2003" class="text-center">
