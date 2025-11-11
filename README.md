@@ -226,3 +226,8 @@ I strive to build stable, flexible, and scalable backend systems, while continuo
   <img src="https://cdn-icons-png.flaticon.com/64/2335/2335321.png" style="max-width: 100%" alt="linkedin-logo" height="80" width="80"/></a>
 </div>
 
+<p dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif">
+    <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="width: 100%; height: auto; display: block;" width="1200"/></a>
+</p>
+
