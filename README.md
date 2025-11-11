@@ -28,19 +28,29 @@
 <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;"></a>
 
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-      👋 Hello there!<br>
-      I’m a <b>Backend Developer</b> with a passion for building robust, secure, and scalable server-side systems.<br>
-      My focus is on developing efficient APIs, intelligent data management, and business logic processing to deliver smooth and seamless user experiences.
-    </td>
-    <td>
-      <img src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" alt="Coding GIF" width="150">
-    </td>
-  </tr>
-</table>
+<div dir="auto">
+<p dir="auto">
+  <img src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" alt="Coding GIF" width="150" align="right"/>
+</p>
 
+<p dir="auto">
+      Hello there!<br>
+      I’m a <b>Backend Developer</b> with a passion for building robust, secure, and scalable server-side systems.
+      My focus is on developing efficient APIs, intelligent data management, and business logic processing to deliver smooth and seamless user experiences.
+</p>
+  <ul>
+    <li>🚀 I’m eager to join new projects.</li>
+    <li>✔ Feel free to ask me anything! I’m motivated to help others.</li>
+    <li>Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love working at a café when I have free time.</li>
+  </ul>
+<p>
+  💼<b></b>Career Objective</b>
+</p>
+  <ul>
+    <li>
+I strive to build stable, flexible, and scalable backend systems, while continuously learning new technologies to improve performance and product quality.</li>
+    </ul>
+</div>
 
 
 <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -48,7 +58,10 @@
 
 <!-- Tech Stack -->
 <div class="markdown-heading" dir="auto">
-  <h3 class="heading-element" dir="auto">⚛️ Tech Stack</h3>
+  <h3 class="heading-element" dir="auto">
+    <img src="https://media0.giphy.com/media/btabuBAWhe5f15Df25/giphy.gif" style="max-width: 100%; display: inline-block;" width="60" height="50"/>
+    Tech Stack
+  </h3>
 </div>
 <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
