@@ -30,11 +30,10 @@
 
 <div dir="auto">
 <p dir="auto">
-  <img src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" alt="Coding GIF" width="150" align="right"/>
+  <img src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" alt="Coding GIF" width="200" height="200" align="right"/>
 </p>
 
 <p dir="auto">
-      Hello there!<br>
       I’m a <b>Backend Developer</b> with a passion for building robust, secure, and scalable server-side systems.
       My focus is on developing efficient APIs, intelligent data management, and business logic processing to deliver smooth and seamless user experiences.
 </p>
@@ -44,12 +43,13 @@
     <li>Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love working at a café when I have free time.</li>
   </ul>
 <p>
-  💼<b></b>Career Objective</b>
+  💼 <b></b>Career Objective</b>
 </p>
   <ul>
     <li>
-I strive to build stable, flexible, and scalable backend systems, while continuously learning new technologies to improve performance and product quality.</li>
-    </ul>
+      I strive to build stable, flexible, and scalable backend systems, while continuously learning new technologies to improve performance and product quality.
+    </li>
+  </ul>
 </div>
 
 
