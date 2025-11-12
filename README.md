@@ -1,5 +1,5 @@
 <p dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif">
+  <a href="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif">
     <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="width: 100%; height: auto; display: block;" width="1200"/></a>
 </p>
 
@@ -178,15 +178,15 @@ I strive to build stable, flexible, and scalable backend systems, while continuo
   <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu-logo" height="48" width="48"/></a>
 </div>
 
-<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;"></a>
 
 <!-- Stats -->
 <div class="markdown-heading" dir="auto">
   <h3 class="heading-element" dir="auto">📶 Stats</h3>
 </div>
-<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;"></a>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nightcoreee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
@@ -195,12 +195,12 @@ I strive to build stable, flexible, and scalable backend systems, while continuo
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Nightcoreee&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
-  <img src="https://github-profile-trophy.vercel.app?username=Nightcoreee&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"/>
+  <img src="https://github-profile-trophy.vercel.app?username=Nightcoreee&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy-graph"/>
 </div>
 
 
-<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;"></a>
 
 <!-- Contact -->
 <div class="markdown-heading" dir="auto">
@@ -210,13 +210,13 @@ I strive to build stable, flexible, and scalable backend systems, while continuo
   </h3>
 </div>
 
-<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;"></a>
 
 
 <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"></a>
 <div align="center">
-  <a href="https://www.facebook.com/wishhh2003" class="text-center">
+  <a href="https://www.facebook.com/wishhh2003">
   <img src="https://cdn-icons-png.flaticon.com/64/1998/1998087.png" style="max-width: 100%" alt="facebook-logo" height="80" width="80"/></a>
   
   <a href="https://www.instagram.com/vvish.1976/">
@@ -227,7 +227,7 @@ I strive to build stable, flexible, and scalable backend systems, while continuo
 </div>
 
 <p dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif">
+  <a href="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif">
     <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="width: 100%; height: auto; display: block;" width="1200"/></a>
 </p>
 
