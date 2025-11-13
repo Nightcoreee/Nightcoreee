@@ -6,8 +6,8 @@
 
 
 <div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/Nightcoreee/Nightcoreee/main/banner.png">
-  <img src="https://raw.githubusercontent.com/Nightcoreee/Nightcoreee/main/banner.png" alt="cover" style="max-width: 100%;" width="100%" /></a>
+  <a href="https://github.com/Nightcoreee/Nightcoreee/blob/main/assets/banner.png">
+  <img src="https://github.com/Nightcoreee/Nightcoreee/blob/main/assets/banner.png" alt="cover" style="max-width: 100%;" width="100%"/></a>
 </div>
 
 
