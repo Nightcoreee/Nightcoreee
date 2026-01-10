@@ -183,7 +183,7 @@
 
 <!-- Stats -->
 <div class="markdown-heading" dir="auto">
-  <h3 class="heading-element" dir="auto">📶 Stats</h3>
+  <h3 class="heading-element" dir="auto"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> Stats</h3>
 </div>
 <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;"></a>
