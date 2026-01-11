@@ -153,7 +153,7 @@
 
 <!-- Tools -->
 <div class="markdown-heading" dir="auto">
-  <h4 class="heading-element" dir="auto">🛠️ Tools</h4>
+  <h4 class="heading-element" dir="auto">🛠️ Others</h4>
 </div>
 <div align="left">
   <a href="https://code.visualstudio.com/docs">
