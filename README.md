@@ -3,14 +3,10 @@
     <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="width: 100%; height: auto; display: block;" width="1200"/></a>
 </p>
 
-<!-- <div align="center" dir="auto">
+<div align="center" dir="auto">
   <a href="https://github.com/Nightcoreee/Nightcoreee/blob/main/assets/banner.png">
   <img src="https://github.com/Nightcoreee/Nightcoreee/blob/main/assets/banner.png" alt="cover" style="max-width: 100%;" width="100%"/></a>
-</div> -->
-<picture decoding="async" loading="lazy">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Nightcoreee&theme=journey&pixelate_avatar=false">
-</picture>
-
+</div>
 
 <div align="center" dir="auto">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&pause=1000;&amp;color=%2338C2FF&amp;size=50&amp;center=true&amp;vCenter=true&amp;height=60&amp;width=600&amp;&amp;duration=3000&amp&lines=Welcome+to+my+profile+!!!;Hi+I'm+Ha+Dao+%C2%AC%C2%AC%C2%AC" alt="" style="max-width: 100%;"/>
@@ -188,25 +184,10 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;">
 
-<div align="center">
-  <!-- Stats graph -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Nightcoreee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-
-  <!-- Stats languages --> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nightcoreee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
-</div>
-
-<div align="center">
-  <!-- Stats streak -->
-  <img src="https://streak-stats.demolab.com?user=Nightcoreee&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
-
-  <!-- Stats trophy graph -->
-  <img src="https://github-profile-trophy.vercel.app?username=Nightcoreee&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy-graph"/>
-</div>
-
-<!-- <picture decoding="async" loading="lazy">
+<!-- Stats img -->
+<picture decoding="async" loading="lazy">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Nightcoreee&theme=journey&pixelate_avatar=false">
-</picture> -->
+</picture>
 
 
 <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
