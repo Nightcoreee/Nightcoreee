@@ -68,7 +68,7 @@
   <h4 class="heading-element" dir="auto">🌐 Languages</h4>
 </div>
 <div align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img src="https://skillicons.dev/icons?i=js" alt="javascript-logo" height="48" width="48"/></a>
   <a href="https://www.typescriptlang.org/">
   <img src="https://skillicons.dev/icons?i=ts" alt="typescript-logo" height="48" width="48"/></a>
@@ -81,7 +81,7 @@
   <h4 class="heading-element" dir="auto">🎨 Front-end</h4>
 </div>
 <div align="left">
-  <a href="https://react.dev/learn">
+  <a href="https://react.dev/learn" target="_blank">
   <img src="https://skillicons.dev/icons?i=react" alt="react-logo" height="48" width="48"/></a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
