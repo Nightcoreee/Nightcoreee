@@ -81,7 +81,7 @@
   <h4 class="heading-element" dir="auto">🎨 Front-end</h4>
 </div>
 <div align="left">
-  <a href="https://react.dev/learn" target="_blank">
+  <a href="https://react.dev/learn" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=react" alt="react-logo" height="48" width="48"/></a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
