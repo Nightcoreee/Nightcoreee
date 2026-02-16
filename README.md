@@ -220,8 +220,9 @@
 <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;"></a>
 
-<div>
-  <a href=""
+<div align="center" dir="auto">
+  <a href="https://github.com/Nightcoreee/Nightcoreee/blob/main/assets/aa.gif">
+  <img src="https://github.com/Nightcoreee/Nightcoreee/blob/main/assets/banner.png" alt="cover" style="max-width: 100%;" width="100%"/></a>
 </div>
 
 <p dir="auto">
