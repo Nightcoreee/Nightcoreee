@@ -202,8 +202,7 @@
   </h3>
 </div>
 
-<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;"></a>
+
 
 
 <a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"></a>
@@ -216,6 +215,13 @@
   
   <a href="https://www.linkedin.com/in/h%C3%A0-%C4%91%C3%A0o-8094a5334/">
   <img src="https://cdn-icons-png.flaticon.com/64/2335/2335321.png" style="max-width: 100%" alt="linkedin-logo" height="80" width="80"/></a>
+</div>
+
+<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;"></a>
+
+<div>
+  <a href=""
 </div>
 
 <p dir="auto">
