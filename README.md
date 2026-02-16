@@ -222,7 +222,7 @@
 
 <div align="center" dir="auto">
   <a href="https://github.com/Nightcoreee/Nightcoreee/blob/main/assets/aa.gif">
-  <img src="https://github.com/Nightcoreee/Nightcoreee/blob/main/assets/banner.png" alt="cover" style="max-width: 100%;" width="100%"/></a>
+  <img align ="center" src="https://github.com/Nightcoreee/Nightcoreee/blob/main/assets/aa.gif" alt="cover" style="max-width: 100%;" width="100%"/></a>
 </div>
 
 <p dir="auto">
