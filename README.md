@@ -102,6 +102,9 @@
 
   <a href="https://tailwindcss.com/">
   <img src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwindcss-logo" height="48" width="48"/></a>
+
+  <a href="https://nextjs.org/docs">
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs-logo" height="48" width="48"/></a>
 </div>
 
 <!-- Backend -->
