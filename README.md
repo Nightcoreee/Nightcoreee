@@ -123,20 +123,20 @@ My focus is on developing efficient APIs, intelligent data management, and busin
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Contact -->
-<h3 align="left"><img src="https://media2.giphy.com/media/wpkEPH2rAHO8nAhcGW/giphy.gif" width="50" height="40"/> Contact with me <3</h3>
+<h3 align="left"><img src="https://media2.giphy.com/media/wpkEPH2rAHO8nAhcGW/giphy.gif" width="50"/> Contact with me <3</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
   
 <div align="center">
   <a href="https://www.facebook.com/wishhh2003" target="blank">
-    <img src="https://images.weserv.nl/?url=cdn-icons-png.flaticon.com/64/1998/1998087.png&w=100&h=100" alt="facebook-logo" hspace="20"/>
+    <img src="https://images.weserv.nl/?url=cdn-icons-png.flaticon.com/64/1998/1998087.png&w=100" alt="facebook-logo" hspace="20"/>
   </a>
   <a href="https://www.instagram.com/vvish.1976/" target="blank">
-    <img src="https://images.weserv.nl/?url=cdn-icons-png.flaticon.com/64/3579/3579034.png&w=100&h=100" alt="instagram-logo" hspace="20"/>
+    <img src="https://images.weserv.nl/?url=cdn-icons-png.flaticon.com/64/3579/3579034.png&w=100" alt="instagram-logo" hspace="20"/>
   </a>
   <a href="https://www.linkedin.com/in/h%C3%A0-%C4%91%C3%A0o-8094a5334/" target="blank">
-    <img src="https://images.weserv.nl/?url=cdn-icons-png.flaticon.com/64/2335/2335321.png&w=100&h=100" alt="linkedin-logo" hspace="20"/>
+    <img src="https://images.weserv.nl/?url=cdn-icons-png.flaticon.com/64/2335/2335321.png&w=100" alt="linkedin-logo" hspace="20"/>
   </a>
 </div>
 
