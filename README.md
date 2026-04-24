@@ -1,7 +1,4 @@
-<p dir="auto">
-  <a href="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif">
-    <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="width: 100%; height: auto; display: block;" width="1200"/></a>
-</p>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"/>
 
 <div align="center" dir="auto">
   <a href="https://github.com/Nightcoreee/Nightcoreee/blob/main/assets/banner.png">
@@ -13,45 +10,32 @@
 </div>
 
 <!-- Snake game -->
-<img src="https://raw.githubusercontent.com/Nightcoreee/Nightcoreee/output/snake.svg" alt="Snake-animation"/> 
+<img src="https://raw.githubusercontent.com/Nightcoreee/Nightcoreee/output/snake.svg" alt="Snake-animation" width="100%"/> 
 
-<div class="markdown-heading" dir="auto">
-  <h3 class="heading-element" dir="auto">
-    <img src="https://media1.giphy.com/media/bkK6ZjlWzQKz9ZSNpk/giphy.gif" style="max-width: 100%; display: inline-block;" width="60" height="50"/>
+  <h3 align="left">
+    <img src="https://media1.giphy.com/media/bkK6ZjlWzQKz9ZSNpk/giphy.gif" width="50" height="50"/>
     A little about me~~  
   </h3>
-</div>
 
-<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div dir="auto">
 <p dir="auto">
   <img src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" alt="Coding GIF" width="200" height="200" align="right"/>
 </p>
 
-<p dir="auto">
-      I’m a <b>Backend Developer</b> with a passion for building robust, secure, and scalable server-side systems.
-      My focus is on developing efficient APIs, intelligent data management, and business logic processing to deliver smooth and seamless user experiences.
-</p>
-  <ul>
-    <li>🚀 I’m eager to join new projects.</li>
-    <li>✔ Feel free to ask me anything! I’m motivated to help others.</li>
-    <li>Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love working at a café when I have free time.</li>
-  </ul>
-<p>
-  💼 <b></b>Career Objective</b>
-</p>
-  <ul>
-    <li>
-      I strive to build stable, flexible, and scalable backend systems, while continuously learning new technologies to improve performance and product quality.
-    </li>
-  </ul>
-</div>
 
+I’m a Backend Developer with a passion for building robust, secure, and scalable server-side systems.
+My focus is on developing efficient APIs, intelligent data management, and business logic processing to deliver smooth and seamless user experiences.
 
-<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;"></a>
+- 🚀 I’m eager to join new projects.
+- ✔ Feel free to ask me anything! I’m motivated to help others.
+- Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love working at a café when I have free time.
+- 💼 Career Objective
+  - I strive to build stable, flexible, and scalable backend systems, while continuously learning new technologies to improve performance and product quality.
+    
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Tech Stack -->
 <div class="markdown-heading" dir="auto">
@@ -60,174 +44,124 @@
     Tech Stack
   </h3>
 </div>
-<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Languages -->
-<div class="markdown-heading" dir="auto">
-  <h4 class="heading-element" dir="auto">🌐 Languages</h4>
-</div>
-<div align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript-logo" height="48" width="48"/></a>
-  <a href="https://www.typescriptlang.org/">
-  <img src="https://skillicons.dev/icons?i=ts" alt="typescript-logo" height="48" width="48"/></a>
-  <a href="https://docs.python.org/3/">
-  <img src="https://skillicons.dev/icons?i=py" alt="python-logo" height="48" width="48"/></a>
-</div>
+<h4 align="left">🌐 Languages</h4>
+
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![Python](https://skillicons.dev/icons?i=py)](https://docs.python.org/3/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/en/about/)
+
 
 <!-- Frontend -->
-<div class="markdown-heading" dir="auto">
-  <h4 class="heading-element" dir="auto">🎨 Front-end</h4>
-</div>
-<div align="left">
-  <a href="https://react.dev/learn" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=react" alt="react-logo" height="48" width="48"/></a>
+<h4 align="left">🎨 Front-end</h4>
 
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SCSS](https://skillicons.dev/icons?i=scss)](https://sass-lang.com/documentation/)
+[![jQuery](https://skillicons.dev/icons?i=jquery)](https://jquery.com)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/docs)
 
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
-  <img src="https://skillicons.dev/icons?i=html" alt="html5-logo" height="48" width="48"/></a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://skillicons.dev/icons?i=css" alt="css-logo" height="48" width="48" /></a>
-
-  <a href="https://sass-lang.com/documentation/">
-  <img src="https://skillicons.dev/icons?i=sass" alt="sass-logo"  height="48" width="48"/></a>
-
-  <a href="https://jquery.com/">
-  <img src="https://skillicons.dev/icons?i=jquery" alt="jquery-logo" height="48" width="48"/></a>
-
-  <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/">
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap-logo" height="48" width="48"/></a>
-
-  <a href="https://tailwindcss.com/">
-  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwindcss-logo" height="48" width="48"/></a>
-
-  <a href="https://nextjs.org/docs">
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs-logo" height="48" width="48"/></a>
-</div>
 
 <!-- Backend -->
-<div class="markdown-heading" dir="auto">
-  <h4 class="heading-element" dir="auto">⚙️ Back-end</h4>
-</div>
-<div align="left">
-  <a href="https://nodejs.org/en/learn/getting-started/introduction-to-nodejs">
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs-logo" height="48" width="48"/></a>
+<h4 align="left">⚙️ Back-end</h4>
 
-  <a href="https://docs.nestjs.com/">
-  <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs-logo" height="48" width="48"/></a>
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+[![Nest.js](https://skillicons.dev/icons?i=nestjs)](https://docs.nestjs.com/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/docs)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
+[![Spring Boot](https://skillicons.dev/icons?i=spring)](https://docs.spring.io/spring-boot/documentation.html)
 
-  <a href="https://expressjs.com/">
-  <img src="https://skillicons.dev/icons?i=express" alt="express-logo" height="48" width="48"/></a>
 
-  <a href="https://nextjs.org/docs">
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs-logo" height="48" width="48"/></a>
-</div>
 
 <!-- DB -->
-<div class="markdown-heading" dir="auto">
-  <h4 class="heading-element" dir="auto">🛢️ Database</h4>
-</div>
-<div align="left">
-  <a href="https://www.mongodb.com/docs/">
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb-logo" height="48" width="48"/></a>
+<h4 align="left">🛢️ Database</h4>
 
-  <a href="https://dev.mysql.com/doc/">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql-logo" height="48" width="48"/></a>
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/docs/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://dev.mysql.com/doc/)
+[![SQL Server](https://go-skill-icons.vercel.app/api/icons?i=sqlserver)](https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver17)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://www.postgresql.org/doc)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/docs.html)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/docs)
 
-  <a href="https://learn.microsoft.com/en-us/sql/sql-server/what-is-sql-server?view=sql-server-ver17">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver-logo" height="48" width="48"/></a>
-
-  <a href="https://www.postgresql.org/docs/">
-  <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql-logo" height="48" width="48"/></a>
-
-  <a href="https://sqlite.org/docs.html">
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite-logo" height="48" width="48"/></a>
-
-  <a href="https://firebase.google.com/docs">
-  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase-logo" height="48" width="48"/></a> 
-
-  <a href="https://redis.io/docs/latest/">
-  <img src="https://skillicons.dev/icons?i=redis" alt="redis-logo" height="48" width="48"/></a>
-</div>
 
 <!-- Tools -->
-<div class="markdown-heading" dir="auto">
-  <h4 class="heading-element" dir="auto">🛠️ Others</h4>
-</div>
-<div align="left">
-  <a href="https://code.visualstudio.com/docs">
-  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode-logo" height="48" width="48"/></a>
+<h4 align="left">🛠️ Others</h4>
 
-  <a href="https://git-scm.com/docs">
-  <img src="https://skillicons.dev/icons?i=git" alt="git-logo" height="48" width="48"/></a>
-  
-  <a href="https://docs.github.com/en">
-  <img src="https://skillicons.dev/icons?i=github" alt="github-logo" height="48" width="48"/></a>
-  
-  <a href="https://help.figma.com/hc/en-us">
-  <img src="https://skillicons.dev/icons?i=figma" alt="figma-logo" height="48" width="48"/></a>
-  
-  <a href="https://docs.kernel.org/">
-  <img src="https://skillicons.dev/icons?i=linux" alt="linux-logo" height="48" width="48"/></a>
-  
-  <a href="https://docs.docker.com/">
-  <img src="https://skillicons.dev/icons?i=docker" alt="docker-logo" height="48" width="48"/></a>
-  
-  <a href="https://help.ubuntu.com/">
-  <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu-logo" height="48" width="48"/></a>
-</div>
+[![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/docs)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/docs)
+[![Github](https://skillicons.dev/icons?i=github)](https://docs.github.com/en)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://help.figma.com/hc/en-us)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev/icons?i=linux)
+[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://help.ubuntu.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docs.docker.com/)
+[![Nginx](https://skillicons.dev/icons?i=nginx)](https://docs.docker.com/)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://learning.postman.com/docs/introduction/overview)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/docs)
 
-<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;"></a>
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Stats -->
-<div class="markdown-heading" dir="auto">
-  <h3 class="heading-element" dir="auto"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> Stats</h3>
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;">
+<h3 class="heading-element" dir="auto"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> Stats</h3>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Stats img -->
 <picture decoding="async" loading="lazy">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Nightcoreee&theme=journey&pixelate_avatar=false">
 </picture>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;"></a>
+<div align="center">
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightcoreee&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=midnight-purple" width="100%"/>
+  </p>
+  
+  <p> 
+    <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nightcoreee&theme=midnight_purple" alt="nightcoreee"/>
+  </p>
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Contact -->
-<div class="markdown-heading" dir="auto">
-  <h3 class="heading-element" dir="auto">
-    <img src="https://media2.giphy.com/media/wpkEPH2rAHO8nAhcGW/giphy.gif" style="max-width: 100%; display: inline-block;" width="60" height="50"/>
+<h3 align="left">
+    <img src="https://media2.giphy.com/media/wpkEPH2rAHO8nAhcGW/giphy.gif" style="max-width: 100%; display: inline-block;" width="40" height="40"/>
     Contact with me <3
-  </h3>
-</div>
+</h3>
 
-
-<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
 <div align="center">
-  <a href="https://www.facebook.com/wishhh2003">
-  <img src="https://cdn-icons-png.flaticon.com/64/1998/1998087.png" style="max-width: 100%" alt="facebook-logo" height="80" width="80" hspace="20"/></a>
-  
-  <a href="https://www.instagram.com/vvish.1976/">
-  <img src="https://cdn-icons-png.flaticon.com/64/3579/3579034.png" style="max-width: 100%" alt="instagram-logo" height="80" width="80" hspace="20"/></a>
-  
-  <a href="https://www.linkedin.com/in/h%C3%A0-%C4%91%C3%A0o-8094a5334/">
-  <img src="https://cdn-icons-png.flaticon.com/64/2335/2335321.png" style="max-width: 100%" alt="linkedin-logo" height="80" width="80" hspace="20"/></a>
+  <a href="https://www.facebook.com/wishhh2003" target="blank">
+    <img src="https://images.weserv.nl/?url=cdn-icons-png.flaticon.com/64/1998/1998087.png&w=100&h=100" alt="facebook-logo" hspace="20"/>
+  </a>
+  <a href="https://www.instagram.com/vvish.1976/" target="blank">
+    <img src="https://images.weserv.nl/?url=cdn-icons-png.flaticon.com/64/3579/3579034.png&w=100&h=100" alt="instagram-logo" hspace="20"/>
+  </a>
+  <a href="https://www.linkedin.com/in/h%C3%A0-%C4%91%C3%A0o-8094a5334/" target="blank">
+    <img src="https://images.weserv.nl/?url=cdn-icons-png.flaticon.com/64/2335/2335321.png&w=100&h=100" alt="linkedin-logo" hspace="20"/>
+  </a>
 </div>
 
-<a href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center" dir="auto">
+<div align="center">
   <a href="https://github.com/Nightcoreee/Nightcoreee/blob/main/assets/aa.gif">
   <img align ="center" src="https://github.com/Nightcoreee/Nightcoreee/blob/main/assets/aa.gif" alt="cover" style="max-width: 100%;" width="100%"/></a>
 </div>
 
-<p dir="auto">
-  <a href="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif">
-    <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" style="width: 100%; height: auto; display: block;" width="1200"/></a>
-</p>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
