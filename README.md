@@ -130,16 +130,16 @@ My focus is on developing efficient APIs, intelligent data management, and busin
   
 <div align="center">
   <a href="https://www.facebook.com/wishhh2003" target="blank">
-    <img src="https://images.weserv.nl/?url=cdn-icons-png.flaticon.com/64/2335/2335286.png&w=90" alt="facebook-logo" hspace="15"/>
+    <img src="https://images.weserv.nl/?url=cdn-icons-png.flaticon.com/64/2335/2335286.png&w=85" alt="facebook-logo" hspace="10"/>
   </a>
   <a href="https://www.instagram.com/vvish.1976/" target="blank">
-    <img src="https://images.weserv.nl/?url=cdn-icons-png.flaticon.com/64/1384/1384886.png&w=90" alt="instagram-logo" hspace="15"/>
+    <img src="https://images.weserv.nl/?url=cdn-icons-png.flaticon.com/64/1384/1384886.png&w=85" alt="instagram-logo" hspace="10"/>
   </a>
   <a href="https://www.linkedin.com/in/h%C3%A0-%C4%91%C3%A0o-8094a5334/" target="blank">
-    <img src="https://images.weserv.nl/?url=cdn-icons-png.flaticon.com/64/2335/2335321.png&w=90" alt="linkedin-logo" hspace="15"/>
+    <img src="https://images.weserv.nl/?url=cdn-icons-png.flaticon.com/64/2335/2335321.png&w=85" alt="linkedin-logo" hspace="10"/>
   </a>
   <a href="mailto:ha69630@gmai.com" target="blank">
-    <img src="https://images.weserv.nl/?url=cdn-icons-png.flaticon.com/64/4575/4575283.png&w=90" alt="mail-logo" hspace="15"/>
+    <img src="https://images.weserv.nl/?url=cdn-icons-png.flaticon.com/64/4575/4575283.png&w=85" alt="mail-logo" hspace="10"/>
   </a>
 </div>
 
