@@ -12,11 +12,10 @@
 <!-- Snake game -->
 <img src="https://raw.githubusercontent.com/Nightcoreee/Nightcoreee/output/snake.svg" alt="Snake-animation" width="100%"/> 
 
-<h3 align="left"><img src="https://media1.giphy.com/media/bkK6ZjlWzQKz9ZSNpk/giphy.gif" width="50" height="40"/> A little about me~~</h3>
+<h3 align="left"><img src="https://media1.giphy.com/media/bkK6ZjlWzQKz9ZSNpk/giphy.gif" width="50"/> A little about me~~</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" alt="Coding GIF" width="200" height="200" align="right"/>
 I’m a Backend Developer with a passion for building robust, secure, and scalable server-side systems.
 My focus is on developing efficient APIs, intelligent data management, and business logic processing to deliver smooth and seamless user experiences.
 
