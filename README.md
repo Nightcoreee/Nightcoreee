@@ -12,19 +12,11 @@
 <!-- Snake game -->
 <img src="https://raw.githubusercontent.com/Nightcoreee/Nightcoreee/output/snake.svg" alt="Snake-animation" width="100%"/> 
 
-  <h3 align="left">
-    <img src="https://media1.giphy.com/media/bkK6ZjlWzQKz9ZSNpk/giphy.gif" width="50" height="50"/>
-    A little about me~~  
-  </h3>
+<h3 align="left"><img src="https://media1.giphy.com/media/bkK6ZjlWzQKz9ZSNpk/giphy.gif" width="50" height="40"/> A little about me~~</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div dir="auto">
-<p dir="auto">
-  <img src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" alt="Coding GIF" width="200" height="200" align="right"/>
-</p>
-
-
+<img src="https://media.tenor.com/kyJFTroNngQAAAAj/coding.gif" alt="Coding GIF" width="200" height="200" align="right"/>
 I’m a Backend Developer with a passion for building robust, secure, and scalable server-side systems.
 My focus is on developing efficient APIs, intelligent data management, and business logic processing to deliver smooth and seamless user experiences.
 
@@ -38,12 +30,7 @@ My focus is on developing efficient APIs, intelligent data management, and busin
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Tech Stack -->
-<div class="markdown-heading" dir="auto">
-  <h3 class="heading-element" dir="auto">
-    <img src="https://media0.giphy.com/media/btabuBAWhe5f15Df25/giphy.gif" style="max-width: 100%; display: inline-block;" width="60" height="50"/>
-    Tech Stack
-  </h3>
-</div>
+  <h3 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30" height="25"> Tech Stack</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -137,12 +124,10 @@ My focus is on developing efficient APIs, intelligent data management, and busin
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Contact -->
-<h3 align="left">
-    <img src="https://media2.giphy.com/media/wpkEPH2rAHO8nAhcGW/giphy.gif" style="max-width: 100%; display: inline-block;" width="40" height="40"/>
-    Contact with me <3
-</h3>
+<h3 align="left"><img src="https://media2.giphy.com/media/wpkEPH2rAHO8nAhcGW/giphy.gif" width="50" height="40"/> Contact with me <3</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
   
 <div align="center">
   <a href="https://www.facebook.com/wishhh2003" target="blank">
@@ -156,11 +141,12 @@ My focus is on developing efficient APIs, intelligent data management, and busin
   </a>
 </div>
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
   <a href="https://github.com/Nightcoreee/Nightcoreee/blob/main/assets/aa.gif">
-  <img align ="center" src="https://github.com/Nightcoreee/Nightcoreee/blob/main/assets/aa.gif" alt="cover" style="max-width: 100%;" width="100%"/></a>
+  <img align ="center" src="https://github.com/Nightcoreee/Nightcoreee/blob/main/assets/aa.gif" width="100%"/></a>
 </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
