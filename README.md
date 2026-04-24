@@ -138,6 +138,9 @@ My focus is on developing efficient APIs, intelligent data management, and busin
   <a href="https://www.linkedin.com/in/h%C3%A0-%C4%91%C3%A0o-8094a5334/" target="blank">
     <img src="https://images.weserv.nl/?url=cdn-icons-png.flaticon.com/64/2335/2335321.png&w=90" alt="linkedin-logo" hspace="15"/>
   </a>
+  <a href="mailto:ha69630@gmai.com" target="blank">
+    <img src="https://images.weserv.nl/?url=cdn-icons-png.flaticon.com/64/4575/4575283.png&w=90" alt="mail-logo" hspace="15"/>
+  </a>
 </div>
 
 
