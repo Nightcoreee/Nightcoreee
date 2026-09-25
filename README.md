@@ -91,7 +91,8 @@ My focus is on developing efficient APIs, intelligent data management, and busin
 [![Nginx](https://skillicons.dev/icons?i=nginx)](https://docs.docker.com/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://learning.postman.com/docs/introduction/overview)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/docs)
-
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docs.docker.com/get-started/docker-overview/)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/docs/home/)
 
 
 
