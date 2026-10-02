@@ -93,7 +93,7 @@ My focus is on developing efficient APIs, intelligent data management, and busin
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/docs)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://docs.docker.com/get-started/docker-overview/)
 [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/docs/home/)
-[![Leetcode](https://skillicons.dev/icons?i=leetcode)](https://leetcode.com/)
+[![Leetcode](https://go-skill-icons.vercel.app/api/icons?i=leetcode)](https://leetcode.com/)
 
 
 
