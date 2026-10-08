@@ -39,7 +39,7 @@ My focus is on developing efficient APIs, intelligent data management, and busin
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![Python](https://skillicons.dev/icons?i=py)](https://docs.python.org/3/)
-[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/en/about/)
+
 
 
 <!-- Frontend -->
@@ -63,7 +63,6 @@ My focus is on developing efficient APIs, intelligent data management, and busin
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/docs)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/stable/)
-[![Spring Boot](https://skillicons.dev/icons?i=spring)](https://docs.spring.io/spring-boot/documentation.html)
 
 
 
